@@ -1,0 +1,14 @@
+.notfound {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.message {
+    margin: 30vh 30vw 0 30vw;
+}
+
+.notfoundimage {
+    height: 30vh;
+}

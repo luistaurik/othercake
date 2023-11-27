@@ -1,0 +1,26 @@
+.contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #ff8a80;
+}
+
+.hero {
+    padding: 11vh 20px;
+}
+
+.form {
+    width: 50vw;
+    padding: 2vh 20px;
+    margin: 2vh 2vw;
+    margin-bottom: 18vh;
+    background-color: white;
+    border-radius: 30px;
+}
+
+.description {
+    height: 120px;
+    text-align: left;
+    display: flex;
+}
