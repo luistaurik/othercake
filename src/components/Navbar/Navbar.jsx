@@ -14,7 +14,7 @@ function NavbarComponent() {
               <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="me-auto text-light">
                   <Link className="text-light nav-link"  to="/">Home</Link>
-                  <Link className="text-light nav-link" to="/contact">Contacto</Link>
+                  <Link className="text-light nav-link" to="/contact">Contact</Link>
                 </Nav>
               </Navbar.Collapse>
             </Container>
